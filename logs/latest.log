@@ -67,3 +67,38 @@ Caused by: java.lang.NoSuchMethodException: net.minecraft.server.dedicated.Dedic
 [01:11:43] [Server thread/INFO]: Running delayed init tasks
 [01:11:43] [Server thread/INFO]: Done (35.424s)! For help, type "help"
 [01:11:51] [Server thread/INFO]: [Not Secure] [Server] ty king
+[01:12:29] [Server thread/INFO]: [Not Secure] [Server] gay
+[01:16:58] [Server thread/INFO]: Stopping the server
+[01:16:58] [Server thread/INFO]: Stopping server
+[01:16:58] [Server thread/INFO]: [EaglerXServer] Disabling EaglercraftXServer v1.1.1
+[01:16:58] [Server thread/INFO]: Saving players
+[01:16:58] [Server thread/INFO]: Saving worlds
+[01:16:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[01:16:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[01:16:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[01:16:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[01:16:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:16:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:16:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:16:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:16:58] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[01:16:58] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[01:16:58] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[01:16:58] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
